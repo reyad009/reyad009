@@ -1,7 +1,19 @@
-- 👋 Hi, I’m REYAD HASAN
-- 🌱 I’m currently learning DevOps
+#list users:
 
-<!---
-reyad009/reyad009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+`aws iam list-users`
+
+#list ec2 instances: 
+
+`aws ec2 describe-instances`
+
+#list s3 buckets: 
+
+`aws s3 ls`
+
+#make s3 bucket
+
+`aws s3 mb s3://uniquename`
+
+#remove s3 bucket
+
+`aws s3 rb s3://uniquename`
