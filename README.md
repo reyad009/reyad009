@@ -9,7 +9,7 @@
 
 ### 📫 Connect
 - [LinkedIn](https://www.linkedin.com/hmreyadhasan)
-- 📧 [Email](hreyad.hasan@pm.me)
+- 📧 [Email](reyad.hasan@pm.me)
 - 🌍 [Website](https://www.obayashi.co.jp)
 
 Let's innovate together! 🚀
